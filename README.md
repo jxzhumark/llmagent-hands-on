@@ -1,8 +1,8 @@
 # LLM Agent Hands-on
 
-**Author: Jiaxin Zhu, algorithm engineer in AMEC, Shanghai, China.**
+**Author: Jiaxin Zhu, Algorithm Engineer**
 
-**Contact Email: jiaxinzhu@amecnsh.com or C200073@ntu.edu.sg**
+**Contact Email: C200073@ntu.edu.sg**
 
 This repository provides hands-on exercises for learning how to build LLM agents from fundamental components to complete agent systems. It follows a progressive learning path, starting with basic LLM interfaces and gradually introducing tool use, agent execution patterns, context engineering, skills, agent runtime, evaluation, and optimization. The repository contains two main components:
 
